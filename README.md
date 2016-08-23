@@ -1,7 +1,7 @@
 # Alfred_File_Creator
 Workflow for Alfred 3 that helps you create files easily.
 
-Use this workflow to create files using Alfred. Choose file with optional template, name the file, choose folder to save and Alfred will create it and opent the file in your favourite app.
+Use this workflow to create files using Alfred. Choose file with optional template, name the file, choose folder to save and Alfred will create it, save it and open the file in your favorite app.
 
 1) Keyword: "new".
 
@@ -12,3 +12,5 @@ Use this workflow to create files using Alfred. Choose file with optional templa
 4) Choose folder to save.
 
 5) You'll get a notification and your favorite app will open with the file.
+
+*** See attached pdf for images.
